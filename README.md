@@ -6,4 +6,5 @@ The project shows defferent design of Vinyl Records
 - React
 - CSS
 - p5.js
+- frontend project
 
