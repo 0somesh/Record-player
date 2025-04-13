@@ -9,3 +9,4 @@ The project shows defferent design of Vinyl Records
 - frontend project
 
 # MIT Liscence
+This is free to use
