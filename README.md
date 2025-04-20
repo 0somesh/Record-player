@@ -1,5 +1,5 @@
 ## Record Player 
-The project shows defferent design of Vinyl Records
+The project shows defferent design of Vinyl Records.
 
 # Tech Stach
 - Javascript
