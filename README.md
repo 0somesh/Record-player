@@ -1,6 +1,8 @@
 ## Record Player 
 The project shows defferent design of Vinyl Records.
 
+- This is made in Vite.
+
 # Tech Stach
 - Javascript
 - React
